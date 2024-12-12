@@ -157,16 +157,14 @@
       stroke-dashoffset: 97;
     }
   }
-  @keyframes text-animation76 {
-    0% {
+  @keyframes text-animation76{
+    0%{
       clip-path: inset(0 100% 0 0);
     }
-  
-    50% {
+    50%{
       clip-path: inset(0);
     }
-  
-    100% {
+    100%{
       clip-path: inset(0 0 0 100%);
     }
   }
