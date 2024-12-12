@@ -94,28 +94,28 @@
     position: absolute;
     left: 0;
   }
-  @keyframes circle-outer135 {
-    0% {
+  @keyframes circle-outer135{
+    0%{
       stroke-dashoffset: 25;
     }
   
-    25% {
+    25%{
       stroke-dashoffset: 0;
     }
   
-    65% {
+    65%{
       stroke-dashoffset: 301;
     }
   
-    80% {
+    80%{
       stroke-dashoffset: 276;
     }
   
-    100% {
+    100%{
       stroke-dashoffset: 276;
     }
   }
-  @keyframes circle-middle6123 {
+  @keyframes circle-middle6123{
     0% {
       stroke-dashoffset: 17;
     }
