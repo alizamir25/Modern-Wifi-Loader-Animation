@@ -136,24 +136,24 @@
       stroke-dashoffset: 187;
     }
   }
-  @keyframes circle-inner162 {
-    0% {
+  @keyframes circle-inner162{
+    0%{
       stroke-dashoffset: 9;
     }
   
-    25% {
+    25%{
       stroke-dashoffset: 0;
     }
   
-    65% {
+    65%{
       stroke-dashoffset: 106;
     }
   
-    80% {
+    80%{
       stroke-dashoffset: 97;
     }
   
-    100% {
+    100%{
       stroke-dashoffset: 97;
     }
   }
