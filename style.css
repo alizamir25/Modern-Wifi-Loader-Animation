@@ -116,23 +116,23 @@
     }
   }
   @keyframes circle-middle6123{
-    0% {
+    0%{
       stroke-dashoffset: 17;
     }
   
-    25% {
+    25%{
       stroke-dashoffset: 0;
     }
   
-    65% {
+    65%{
       stroke-dashoffset: 204;
     }
   
-    80% {
+    80%{
       stroke-dashoffset: 187;
     }
   
-    100% {
+    100%{
       stroke-dashoffset: 187;
     }
   }
