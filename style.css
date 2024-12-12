@@ -1,4 +1,4 @@
-#wifi-loader {
+#wifi-loader{
     --background: #62abff;
     --front-color: #4f29f0;
     --back-color: #c3c8de;
@@ -11,13 +11,13 @@
     justify-content: center;
     align-items: center;
   }
-  #wifi-loader svg {
+  #wifi-loader svg{
     position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  #wifi-loader svg circle {
+  #wifi-loader svg circle{
     position: absolute;
     fill: none;
     stroke-width: 6px;
